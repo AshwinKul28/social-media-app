@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "go.lintTool":"golangci-lint",
+  "go.lintFlags": [
+    "--fast", "--fix"
+  ],
+  "editor.wrappingIndent": "same",
+  "editor.wordWrapColumn": 120,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.insertSpaces": false
+
+}

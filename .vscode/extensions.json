@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "golang.go",
+    "mikestead.dotenv",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig"
+  ]
+}
